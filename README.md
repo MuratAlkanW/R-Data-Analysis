@@ -1,3 +1,3 @@
-# R-Data Analysis
+# Data Analysis
 
-CTIS 365 - Lab Assignments & Project
+CTIS 365 - Assignments
