@@ -54,6 +54,7 @@ ggplot(data, aes(fill=GENDER, y=AverageScore, x=TIME)) +
     plot.subtitle = element_text(hjust = 0.5)
   ) 
 
+
 ################################# ggplot2 (2) #################################
 library(ggplot2)
 
